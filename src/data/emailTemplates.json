@@ -1,0 +1,18 @@
+{
+  "en": {
+    "subject": "Welcome to Build!t Community! 🚀",
+    "body": "<h1>Welcome to Build!t!</h1><p>Thanks for joining our developer community. Get ready for amazing hackathons and meetups!</p><p>We'll keep you posted on the latest events and opportunities.</p><p>Happy coding!<br>The Build!t Team</p>"
+  },
+  "es": {
+    "subject": "¡Bienvenido a la Comunidad Build!t! 🚀", 
+    "body": "<h1>¡Bienvenido a Build!t!</h1><p>Gracias por unirte a nuestra comunidad de desarrolladores. ¡Prepárate para hackathons y meetups increíbles!</p><p>Te mantendremos informado sobre los últimos eventos y oportunidades.</p><p>¡Feliz programación!<br>El Equipo Build!t</p>"
+  },
+  "fr": {
+    "subject": "Bienvenue dans la Communauté Build!t! 🚀",
+    "body": "<h1>Bienvenue chez Build!t!</h1><p>Merci de rejoindre notre communauté de développeurs. Préparez-vous pour des hackathons et meetups incroyables!</p><p>Nous vous tiendrons informé des derniers événements et opportunités.</p><p>Bon codage!<br>L'Équipe Build!t</p>"
+  },
+  "de": {
+    "subject": "Willkommen in der Build!t Community! 🚀",
+    "body": "<h1>Willkommen bei Build!t!</h1><p>Danke, dass du unserer Entwickler-Community beigetreten bist. Bereite dich auf tolle Hackathons und Meetups vor!</p><p>Wir halten dich über die neuesten Events und Möglichkeiten auf dem Laufenden.</p><p>Viel Spaß beim Programmieren!<br>Das Build!t Team</p>"
+  }
+}

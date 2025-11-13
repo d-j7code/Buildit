@@ -1,0 +1,781 @@
+{
+  "version": 0.1,
+  "files": {
+    "components/EmailSubscription.jsx": {
+      "scopes": {
+        "1/0/init/body/3/argument/1/1": {
+          "type": "element",
+          "hash": "59df0909ff7fc81bbb710f2ecdabd2fc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Join Our Developer Community"
+        },
+        "1/0/init/body/3/argument/1/3": {
+          "type": "element",
+          "hash": "059252f61c82084e2d65e8c11d750c48",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get updates on hackathons, meetups, and community events"
+        },
+        "1/0/init/body/3/argument/1/5/1-placeholder": {
+          "type": "attribute",
+          "hash": "39931962707c99b99a5a073ab579396b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enter your email"
+        },
+        "1/0/init/body/3/argument/1/7/expression/right": {
+          "type": "element",
+          "hash": "ff65b763eb606d2a5e3d5b80eaae663d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Thanks for subscribing!"
+        },
+        "1/0/init/body/3/argument/1/9/expression/right": {
+          "type": "element",
+          "hash": "c62a7718d9a1e9c4ffb707807550f836",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Something went wrong. Please try again."
+        },
+        "4/0/init/body/6/argument/1/1": {
+          "type": "element",
+          "hash": "59df0909ff7fc81bbb710f2ecdabd2fc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Join Our Developer Community"
+        },
+        "4/0/init/body/6/argument/1/3": {
+          "type": "element",
+          "hash": "f0b6c3ad97e8db4ed940c0475d62d59a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get updates on hackathons, meetups, and community events!"
+        },
+        "4/0/init/body/6/argument/1/5/1-placeholder": {
+          "type": "attribute",
+          "hash": "39931962707c99b99a5a073ab579396b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enter your email"
+        },
+        "4/0/init/body/6/argument/1/7/expression/right": {
+          "type": "element",
+          "hash": "ff65b763eb606d2a5e3d5b80eaae663d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Thanks for subscribing!"
+        },
+        "4/0/init/body/6/argument/1/9/expression/right": {
+          "type": "element",
+          "hash": "c62a7718d9a1e9c4ffb707807550f836",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Something went wrong. Please try again."
+        }
+      }
+    },
+    "components/EventCard.jsx": {
+      "scopes": {
+        "1/0/init/body/1/argument/3/9": {
+          "type": "element",
+          "hash": "4428c7d598f881c53712ba84ce6b93f4",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Learn More"
+        }
+      }
+    },
+    "components/Header.jsx": {
+      "scopes": {
+        "3/0/init/body/3/argument/1/1/1": {
+          "type": "element",
+          "hash": "dc04b9790f2ad2d45cd84024ea0555dc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "🛠️"
+        },
+        "3/0/init/body/3/argument/1/1/3/1": {
+          "type": "element",
+          "hash": "f4d018cabf6eeab3f1c879c1d8eed6de",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "B"
+        },
+        "3/0/init/body/3/argument/1/1/3/11": {
+          "type": "element",
+          "hash": "24c1e862f3a7231e2e023bde93240de1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "!"
+        },
+        "3/0/init/body/3/argument/1/1/3/13": {
+          "type": "element",
+          "hash": "c676e8e589714c1b5203a0a6c724dc79",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "t"
+        },
+        "3/0/init/body/3/argument/1/1/3/3": {
+          "type": "element",
+          "hash": "a4098684f8afa18b061dec631081fe95",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "u"
+        },
+        "3/0/init/body/3/argument/1/1/3/5": {
+          "type": "element",
+          "hash": "b96692323d61bb1d839c1e5b114faa6d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "i"
+        },
+        "3/0/init/body/3/argument/1/1/3/7": {
+          "type": "element",
+          "hash": "497e91bb0f0375e4d0b78753e827b538",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "l"
+        },
+        "3/0/init/body/3/argument/1/1/3/9": {
+          "type": "element",
+          "hash": "fe9efa39a6fd9f10358f43f00e0ab82b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "d"
+        },
+        "3/0/init/body/3/argument/1/3/1": {
+          "type": "element",
+          "hash": "146de422795ba36b31d00851355be3be",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Hackathons"
+        },
+        "3/0/init/body/3/argument/1/3/3": {
+          "type": "element",
+          "hash": "6a4aef92855be31f288bd1e0fa142e56",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meetups"
+        },
+        "3/0/init/body/3/argument/1/3/7": {
+          "type": "element",
+          "hash": "3caad6794f4e521e657f3bb5d6103915",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Join Community"
+        }
+      }
+    },
+    "components/footer.jsx": {
+      "scopes": {
+        "2/0/init/body/0/argument/1/1/1/1": {
+          "type": "element",
+          "hash": "08f01a139568423a460c7d664b2be95e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Quick Links"
+        },
+        "2/0/init/body/0/argument/1/1/1/3/1/0": {
+          "type": "element",
+          "hash": "146de422795ba36b31d00851355be3be",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Hackathons"
+        },
+        "2/0/init/body/0/argument/1/1/1/3/3/0": {
+          "type": "element",
+          "hash": "6a4aef92855be31f288bd1e0fa142e56",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meetups"
+        },
+        "2/0/init/body/0/argument/1/1/1/3/5/0": {
+          "type": "element",
+          "hash": "8f89131a66d4659be07cd5af2c7ea898",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "About Us"
+        },
+        "2/0/init/body/0/argument/1/1/3/1/0": {
+          "type": "element",
+          "hash": "6f079a0ddc715963f242a898d2b2c128",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Partner with Us 🫱🏻‍🫲🏻"
+        },
+        "2/0/init/body/0/argument/1/1/3/1/1/0": {
+          "type": "element",
+          "hash": "6f079a0ddc715963f242a898d2b2c128",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Partner with Us 🫱🏻‍🫲🏻"
+        },
+        "2/0/init/body/0/argument/1/3/1": {
+          "type": "element",
+          "hash": "a0fa3f59872e06ce23fd70c7a1a78490",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "© 2025 Buidlt. All rights reserved."
+        }
+      }
+    },
+    "pages/HackathonDetail.jsx": {
+      "scopes": {
+        "2/0/init/body/2/consequent/0/argument": {
+          "type": "element",
+          "hash": "9f79578c8b24f5fa221374b876e284aa",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Hackathon not found"
+        },
+        "2/0/init/body/3/argument/1/1/1/expression/alternate/1": {
+          "type": "element",
+          "hash": "0b86b5aec95841647b43c0e8312b48c7",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "💻"
+        },
+        "2/0/init/body/3/argument/1/1/1/expression/alternate/3": {
+          "type": "element",
+          "hash": "b5f2eeaef95c902037d9256afc205791",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Hackathon Image"
+        },
+        "2/0/init/body/3/argument/1/3/1/1": {
+          "type": "element",
+          "hash": "944521eeeed2511833d2299931273c71",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "About"
+        },
+        "2/0/init/body/3/argument/1/3/3/1": {
+          "type": "element",
+          "hash": "2a8bbb1bc386c059783f925aca2cc522",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Details"
+        },
+        "2/0/init/body/3/argument/1/3/3/3/1/0": {
+          "type": "element",
+          "hash": "5c1ff22dc3403971c5ce75565e8e4137",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Duration:"
+        },
+        "2/0/init/body/3/argument/1/3/3/3/3/0": {
+          "type": "element",
+          "hash": "885c6c26be08ef1e54a6f8dd7bf61251",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Team Size:"
+        },
+        "2/0/init/body/3/argument/1/3/3/3/5/0": {
+          "type": "element",
+          "hash": "6d0dd74a1b12cf724026983148d77520",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Prize Pool:"
+        },
+        "2/0/init/body/3/argument/1/3/3/3/7/0": {
+          "type": "element",
+          "hash": "4468b2f0313c2d5107ceff5dd0b3720e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Registration:"
+        },
+        "2/0/init/body/3/argument/1/3/5/expression/right/1": {
+          "type": "element",
+          "hash": "f1d36cd19e6c3b78bcb356827c221e0a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Register Now"
+        },
+        "2/0/init/body/3/argument/1/3/5/expression/right/3": {
+          "type": "element",
+          "hash": "a208553569f729a7bda6dd180ec8446c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Register for Hackathon"
+        },
+        "3/0/init/body/3/argument/1/1/1/expression/alternate/1": {
+          "type": "element",
+          "hash": "0b86b5aec95841647b43c0e8312b48c7",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "💻"
+        },
+        "3/0/init/body/3/argument/1/1/1/expression/alternate/3": {
+          "type": "element",
+          "hash": "b5f2eeaef95c902037d9256afc205791",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Hackathon Image"
+        },
+        "3/0/init/body/3/argument/1/3/3/3/1/0": {
+          "type": "element",
+          "hash": "85187d9f080dfa98ed18f83e2ff12f89",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<expression/>:"
+        },
+        "3/0/init/body/3/argument/1/3/3/3/3/0": {
+          "type": "element",
+          "hash": "85187d9f080dfa98ed18f83e2ff12f89",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<expression/>:"
+        },
+        "3/0/init/body/3/argument/1/3/3/3/5/0": {
+          "type": "element",
+          "hash": "85187d9f080dfa98ed18f83e2ff12f89",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<expression/>:"
+        },
+        "3/0/init/body/3/argument/1/3/3/3/7/0": {
+          "type": "element",
+          "hash": "85187d9f080dfa98ed18f83e2ff12f89",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<expression/>:"
+        }
+      }
+    },
+    "pages/Hackathons.jsx": {
+      "scopes": {
+        "3/0/init/body/2/argument/1/1": {
+          "type": "element",
+          "hash": "146de422795ba36b31d00851355be3be",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Hackathons"
+        },
+        "3/0/init/body/2/argument/1/3/1": {
+          "type": "element",
+          "hash": "aa2674f7be838960d79d59c61527dc3f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "All"
+        },
+        "3/0/init/body/2/argument/1/3/3": {
+          "type": "element",
+          "hash": "c16b37e4099a65db6f3288c62a96be4a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Upcoming"
+        },
+        "3/0/init/body/2/argument/1/3/5": {
+          "type": "element",
+          "hash": "1df5c0e8bbe4a9194e7c5be36f0c6cd3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Past"
+        }
+      }
+    },
+    "pages/Home.jsx": {
+      "scopes": {
+        "3/0/init/body/2/argument/1/1/1/1/1": {
+          "type": "element",
+          "hash": "f635462a7cf63ef802212237323a52e5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Where Developers Build, Learn & Connect"
+        },
+        "3/0/init/body/2/argument/1/1/1/1/3": {
+          "type": "element",
+          "hash": "13989029a1a7c585375209a5b2c0900f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Join thousands of developers from across the world!<element:br></element:br> Breaking linguistic and regional barriers to unlock worldwide developer potential."
+        },
+        "3/0/init/body/2/argument/1/1/1/1/5/1": {
+          "type": "element",
+          "hash": "5f80a6899f10ed0aff4774a1a6caaf26",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Explore Events"
+        },
+        "3/0/init/body/2/argument/1/1/1/1/5/3": {
+          "type": "element",
+          "hash": "8e281d05b793ef75a8855e9806d87c25",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Join Community"
+        },
+        "3/0/init/body/2/argument/3/1/1/1": {
+          "type": "element",
+          "hash": "574f29536b2a175d260d5f8d2494ad25",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Upcoming Hackathons"
+        },
+        "3/0/init/body/2/argument/3/1/1/3": {
+          "type": "element",
+          "hash": "dceb539f06b7590afef8816e4876c0fe",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Challenge yourself and build innovative solutions"
+        },
+        "3/0/init/body/2/argument/3/1/5/1": {
+          "type": "element",
+          "hash": "8d83e909cb35d34f20638abf3ca5eaa9",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Upcoming Meetups"
+        },
+        "3/0/init/body/2/argument/3/1/5/3": {
+          "type": "element",
+          "hash": "879c3810faf93ddc1638b546434f870b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Connect with fellow developers and learn together"
+        }
+      }
+    },
+    "pages/MeetupDetail.jsx": {
+      "scopes": {
+        "2/0/init/body/2/consequent/0/argument": {
+          "type": "element",
+          "hash": "c4d818a6f4627b0a43c29770313c0924",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meetup not found"
+        },
+        "2/0/init/body/3/argument/1/1/1/expression/alternate/1": {
+          "type": "element",
+          "hash": "0444cb8c40a9783bc9031287338f2aea",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "👥"
+        },
+        "2/0/init/body/3/argument/1/1/1/expression/alternate/3": {
+          "type": "element",
+          "hash": "422b59589020fdac5f50c58742bd8b7b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meetup Image"
+        },
+        "2/0/init/body/3/argument/1/3/1/1": {
+          "type": "element",
+          "hash": "944521eeeed2511833d2299931273c71",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "About"
+        },
+        "2/0/init/body/3/argument/1/3/3/1": {
+          "type": "element",
+          "hash": "2a8bbb1bc386c059783f925aca2cc522",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Details"
+        },
+        "2/0/init/body/3/argument/1/3/3/3/1/0": {
+          "type": "element",
+          "hash": "5c1ff22dc3403971c5ce75565e8e4137",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Duration:"
+        },
+        "2/0/init/body/3/argument/1/3/3/3/3/0": {
+          "type": "element",
+          "hash": "82623212dfa5483d2483e65189584332",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Format:"
+        },
+        "2/0/init/body/3/argument/1/3/3/3/5/0": {
+          "type": "element",
+          "hash": "120995447a9d8616a257f9d88d989e45",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Capacity:"
+        },
+        "2/0/init/body/3/argument/1/3/3/3/7/0": {
+          "type": "element",
+          "hash": "073ae64271c23af7d9f75699aa1aa935",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Cost:"
+        },
+        "2/0/init/body/3/argument/1/3/5/expression/right/1": {
+          "type": "element",
+          "hash": "97fa40d6aa86300bfce8e4978a21087d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Agenda"
+        },
+        "2/0/init/body/3/argument/1/3/7/expression/right/1": {
+          "type": "element",
+          "hash": "c90db6a8dac7a2810bb89f9dde79cb18",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "RSVP"
+        },
+        "2/0/init/body/3/argument/1/3/7/expression/right/3": {
+          "type": "element",
+          "hash": "185555e15df7d5e28a752df3666ecc3a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "RSVP for Meetup"
+        },
+        "3/0/init/body/2/consequent/0/argument": {
+          "type": "element",
+          "hash": "c4d818a6f4627b0a43c29770313c0924",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meetup not found"
+        },
+        "3/0/init/body/3/argument/1/1/1/expression/alternate/1": {
+          "type": "element",
+          "hash": "0444cb8c40a9783bc9031287338f2aea",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "👥"
+        },
+        "3/0/init/body/3/argument/1/1/1/expression/alternate/3": {
+          "type": "element",
+          "hash": "422b59589020fdac5f50c58742bd8b7b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meetup Image"
+        },
+        "3/0/init/body/3/argument/1/3/1/1": {
+          "type": "element",
+          "hash": "944521eeeed2511833d2299931273c71",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "About"
+        },
+        "3/0/init/body/3/argument/1/3/3/1": {
+          "type": "element",
+          "hash": "2a8bbb1bc386c059783f925aca2cc522",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Details"
+        },
+        "3/0/init/body/3/argument/1/3/3/3/1/0": {
+          "type": "element",
+          "hash": "5c1ff22dc3403971c5ce75565e8e4137",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Duration:"
+        },
+        "3/0/init/body/3/argument/1/3/3/3/3/0": {
+          "type": "element",
+          "hash": "82623212dfa5483d2483e65189584332",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Format:"
+        },
+        "3/0/init/body/3/argument/1/3/3/3/5/0": {
+          "type": "element",
+          "hash": "120995447a9d8616a257f9d88d989e45",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Capacity:"
+        },
+        "3/0/init/body/3/argument/1/3/3/3/7/0": {
+          "type": "element",
+          "hash": "073ae64271c23af7d9f75699aa1aa935",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Cost:"
+        },
+        "3/0/init/body/3/argument/1/3/5/expression/right/1": {
+          "type": "element",
+          "hash": "97fa40d6aa86300bfce8e4978a21087d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Agenda"
+        },
+        "3/0/init/body/3/argument/1/3/7/expression/right/1": {
+          "type": "element",
+          "hash": "c90db6a8dac7a2810bb89f9dde79cb18",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "RSVP"
+        },
+        "3/0/init/body/3/argument/1/3/7/expression/right/3": {
+          "type": "element",
+          "hash": "185555e15df7d5e28a752df3666ecc3a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "RSVP for Meetup"
+        }
+      }
+    },
+    "pages/Meetups.jsx": {
+      "scopes": {
+        "3/0/init/body/2/argument/1/1": {
+          "type": "element",
+          "hash": "6a4aef92855be31f288bd1e0fa142e56",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meetups"
+        },
+        "3/0/init/body/2/argument/1/3/1": {
+          "type": "element",
+          "hash": "aa2674f7be838960d79d59c61527dc3f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "All"
+        },
+        "3/0/init/body/2/argument/1/3/3": {
+          "type": "element",
+          "hash": "c16b37e4099a65db6f3288c62a96be4a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Upcoming"
+        },
+        "3/0/init/body/2/argument/1/3/5": {
+          "type": "element",
+          "hash": "1df5c0e8bbe4a9194e7c5be36f0c6cd3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Past"
+        }
+      }
+    },
+    "pages/Partner.jsx": {
+      "scopes": {
+        "1/0/init/body/4/argument/1/1/1": {
+          "type": "element",
+          "hash": "7144714c0f1ba2cf391a09f87a923c7c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Partner with Us"
+        },
+        "1/0/init/body/4/argument/1/1/3": {
+          "type": "element",
+          "hash": "6840e30b39f378af4932f6684a3c26f1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Join forces with us to create amazing developer experiences and grow the tech community together."
+        },
+        "1/0/init/body/4/argument/1/1/5/1/1": {
+          "type": "element",
+          "hash": "0ee22bbbe989a0c61a18023407d12dc2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Email Address"
+        },
+        "1/0/init/body/4/argument/1/1/5/1/3-placeholder": {
+          "type": "attribute",
+          "hash": "aff673ce92771063de944944da3d4346",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "your@email.com"
+        },
+        "1/0/init/body/4/argument/1/1/5/3/1": {
+          "type": "element",
+          "hash": "f2f72126bd244cfc534eab395e054362",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Message"
+        },
+        "1/0/init/body/4/argument/1/1/5/3/3-placeholder": {
+          "type": "attribute",
+          "hash": "2323e7eb233d7bff66aff833e8269f04",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Tell us about your partnership ideas..."
+        }
+      }
+    }
+  }
+}
