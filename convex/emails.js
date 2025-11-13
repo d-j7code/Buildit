@@ -19,7 +19,7 @@ export const sendWelcomeEmail = action({
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        sender: { name: "Build!t Community", email: "noreply@example.com" },
+        sender: { name: "Build!t Community", email: "djmonecorp@gmail.com" },
         to: [{ email: args.email }],
         subject: template.subject,
         htmlContent: template.body,
