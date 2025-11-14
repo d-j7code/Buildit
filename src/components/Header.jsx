@@ -1,9 +1,11 @@
-import { Link } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 import { useEffect, useState } from 'react'
 import { LocaleSwitcher } from "lingo.dev/react/client"
 
 const Header = () => {
   const [isScrolled, setIsScrolled] = useState(false)
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
+  const navigate = useNavigate()
 
   useEffect(() => {
     const handleScroll = () => {
@@ -18,7 +20,14 @@ const Header = () => {
     const joinSection = document.getElementById('join-community')
     if (joinSection) {
       joinSection.scrollIntoView({ behavior: 'smooth' })
+    } else {
+      navigate('/#join-community')
     }
+    setIsMobileMenuOpen(false)
+  }
+
+  const toggleMobileMenu = () => {
+    setIsMobileMenuOpen(!isMobileMenuOpen)
   }
 
   return (
@@ -36,9 +45,14 @@ const Header = () => {
             <span>t</span>
           </span>
         </Link>
-        <nav className="nav">
-          <Link to="/hackathons">Hackathons</Link>
-          <Link to="/meetups">Meetups</Link>
+        
+        <button className="mobile-menu-toggle" onClick={toggleMobileMenu}>
+          {isMobileMenuOpen ? '✕' : '☰'}
+        </button>
+        
+        <nav className={`nav ${isMobileMenuOpen ? 'mobile-open' : ''}`}>
+          <Link to="/hackathons" onClick={() => setIsMobileMenuOpen(false)}>Hackathons</Link>
+          <Link to="/meetups" onClick={() => setIsMobileMenuOpen(false)}>Meetups</Link>
           <LocaleSwitcher locales={["en", "es", "fr", "de"]} />
           <button onClick={scrollToJoin} className="join-btn">
             Join Community
