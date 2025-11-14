@@ -209,6 +209,204 @@ export default {
           },
           hash: "3caad6794f4e521e657f3bb5d6103915",
         },
+        "3/0/init/body/5/argument/1/1/1": {
+          content: {
+            de: "🛠️",
+            en: "🛠️",
+            es: "🛠️",
+            fr: "🛠️",
+          },
+          hash: "dc04b9790f2ad2d45cd84024ea0555dc",
+        },
+        "3/0/init/body/5/argument/1/1/3/1": {
+          content: {
+            de: "B",
+            en: "B",
+            es: "B",
+            fr: "B",
+          },
+          hash: "f4d018cabf6eeab3f1c879c1d8eed6de",
+        },
+        "3/0/init/body/5/argument/1/1/3/11": {
+          content: {
+            de: "!",
+            en: "!",
+            es: "!",
+            fr: "!",
+          },
+          hash: "24c1e862f3a7231e2e023bde93240de1",
+        },
+        "3/0/init/body/5/argument/1/1/3/13": {
+          content: {
+            de: "t",
+            en: "t",
+            es: "t",
+            fr: "t",
+          },
+          hash: "c676e8e589714c1b5203a0a6c724dc79",
+        },
+        "3/0/init/body/5/argument/1/1/3/3": {
+          content: {
+            de: "u",
+            en: "u",
+            es: "u",
+            fr: "u",
+          },
+          hash: "a4098684f8afa18b061dec631081fe95",
+        },
+        "3/0/init/body/5/argument/1/1/3/5": {
+          content: {
+            de: "i",
+            en: "i",
+            es: "i",
+            fr: "i",
+          },
+          hash: "b96692323d61bb1d839c1e5b114faa6d",
+        },
+        "3/0/init/body/5/argument/1/1/3/7": {
+          content: {
+            de: "l",
+            en: "l",
+            es: "l",
+            fr: "l",
+          },
+          hash: "497e91bb0f0375e4d0b78753e827b538",
+        },
+        "3/0/init/body/5/argument/1/1/3/9": {
+          content: {
+            de: "d",
+            en: "d",
+            es: "d",
+            fr: "d",
+          },
+          hash: "fe9efa39a6fd9f10358f43f00e0ab82b",
+        },
+        "3/0/init/body/5/argument/1/5/1": {
+          content: {
+            de: "Hackathons",
+            en: "Hackathons",
+            es: "Hackathons",
+            fr: "Hackathons",
+          },
+          hash: "146de422795ba36b31d00851355be3be",
+        },
+        "3/0/init/body/5/argument/1/5/3": {
+          content: {
+            de: "Meetups",
+            en: "Meetups",
+            es: "Meetups",
+            fr: "Meetups",
+          },
+          hash: "6a4aef92855be31f288bd1e0fa142e56",
+        },
+        "3/0/init/body/5/argument/1/5/7": {
+          content: {
+            de: "Community beitreten",
+            en: "Join Community",
+            es: "Unirse a la comunidad",
+            fr: "Rejoindre la communauté",
+          },
+          hash: "3caad6794f4e521e657f3bb5d6103915",
+        },
+        "3/0/init/body/6/argument/1/1/1": {
+          content: {
+            de: "🛠️",
+            en: "🛠️",
+            es: "🛠️",
+            fr: "🛠️",
+          },
+          hash: "dc04b9790f2ad2d45cd84024ea0555dc",
+        },
+        "3/0/init/body/6/argument/1/1/3/1": {
+          content: {
+            de: "B",
+            en: "B",
+            es: "B",
+            fr: "B",
+          },
+          hash: "f4d018cabf6eeab3f1c879c1d8eed6de",
+        },
+        "3/0/init/body/6/argument/1/1/3/11": {
+          content: {
+            de: "!",
+            en: "!",
+            es: "!",
+            fr: "!",
+          },
+          hash: "24c1e862f3a7231e2e023bde93240de1",
+        },
+        "3/0/init/body/6/argument/1/1/3/13": {
+          content: {
+            de: "t",
+            en: "t",
+            es: "t",
+            fr: "t",
+          },
+          hash: "c676e8e589714c1b5203a0a6c724dc79",
+        },
+        "3/0/init/body/6/argument/1/1/3/3": {
+          content: {
+            de: "u",
+            en: "u",
+            es: "u",
+            fr: "u",
+          },
+          hash: "a4098684f8afa18b061dec631081fe95",
+        },
+        "3/0/init/body/6/argument/1/1/3/5": {
+          content: {
+            de: "i",
+            en: "i",
+            es: "i",
+            fr: "i",
+          },
+          hash: "b96692323d61bb1d839c1e5b114faa6d",
+        },
+        "3/0/init/body/6/argument/1/1/3/7": {
+          content: {
+            de: "l",
+            en: "l",
+            es: "l",
+            fr: "l",
+          },
+          hash: "497e91bb0f0375e4d0b78753e827b538",
+        },
+        "3/0/init/body/6/argument/1/1/3/9": {
+          content: {
+            de: "d",
+            en: "d",
+            es: "d",
+            fr: "d",
+          },
+          hash: "fe9efa39a6fd9f10358f43f00e0ab82b",
+        },
+        "3/0/init/body/6/argument/1/5/1": {
+          content: {
+            de: "Hackathons",
+            en: "Hackathons",
+            es: "Hackathons",
+            fr: "Hackathons",
+          },
+          hash: "146de422795ba36b31d00851355be3be",
+        },
+        "3/0/init/body/6/argument/1/5/3": {
+          content: {
+            de: "Meetups",
+            en: "Meetups",
+            es: "Meetups",
+            fr: "Meetups",
+          },
+          hash: "6a4aef92855be31f288bd1e0fa142e56",
+        },
+        "3/0/init/body/6/argument/1/5/7": {
+          content: {
+            de: "Community beitreten",
+            en: "Join Community",
+            es: "Unirse a la comunidad",
+            fr: "Rejoindre la communauté",
+          },
+          hash: "3caad6794f4e521e657f3bb5d6103915",
+        },
       },
     },
     "components/footer.jsx": {
@@ -479,12 +677,12 @@ export default {
       entries: {
         "3/0/init/body/2/argument/1/1/1/1/1": {
           content: {
-            de: "Wo Entwickler bauen, lernen & sich vernetzen",
-            en: "Where Developers Build, Learn & Connect",
-            es: "Donde los desarrolladores construyen, aprenden y conectan",
-            fr: "Où les développeurs construisent, apprennent et se connectent",
+            de: "Wo Innovation auf Gemeinschaft trifft",
+            en: "Where Innovation Meets Community",
+            es: "Donde la innovación se encuentra con la comunidad",
+            fr: "Où l'innovation rencontre la communauté",
           },
-          hash: "f635462a7cf63ef802212237323a52e5",
+          hash: "5b655f23e4844ca20bb36f18bf271531",
         },
         "3/0/init/body/2/argument/1/1/1/1/3": {
           content: {

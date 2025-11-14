@@ -12,7 +12,7 @@ const Home = () => {
         <div className="container">
           <div className="hero-content">
             <div className="hero-text">
-              <h1>Where Developers Build, Learn & Connect</h1>
+              <h1>Where Innovation Meets Community</h1>
               <p>
                 Join thousands of developers from across the world!<br></br>
                 Breaking linguistic and regional barriers to unlock worldwide developer potential.
