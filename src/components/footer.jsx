@@ -12,7 +12,6 @@ const Footer = () => {
               <ul>
                 <li><Link to="/hackathons">Hackathons</Link></li>
                 <li><Link to="/meetups">Meetups</Link></li>
-                <li><Link to="/about">About Us</Link></li>
               </ul>
             </div>
             <div className="footer-section">
@@ -22,7 +21,7 @@ const Footer = () => {
             </div>
           </div>
           <div className="footer-bottom">
-            <p>&copy; 2025 Buidlt. All rights reserved.</p>
+            <p>&copy; 2025 Buidlt. Built by David J.</p>
           </div>
         </div>
       </footer>)

@@ -575,12 +575,12 @@ export default {
         },
         "2/0/init/body/0/argument/1/3/1": {
           content: {
-            de: "© 2025 Buidlt. Alle Rechte vorbehalten.",
-            en: "© 2025 Buidlt. All rights reserved.",
-            es: "© 2025 Buidlt. Todos los derechos reservados.",
-            fr: "© 2025 Buidlt. Tous droits réservés.",
+            de: "© 2025 Buidlt. Erstellt von David J.",
+            en: "© 2025 Buidlt. Built by David J.",
+            es: "© 2025 Buidlt. Creado por David J.",
+            fr: "© 2025 Buidlt. Développé par David J.",
           },
-          hash: "a0fa3f59872e06ce23fd70c7a1a78490",
+          hash: "94a22e96f70f6d417c7247164bd3a6c8",
         },
       },
     },
@@ -677,6 +677,15 @@ export default {
           hash: "f1d36cd19e6c3b78bcb356827c221e0a",
         },
         "2/0/init/body/3/argument/1/3/5/expression/right/3": {
+          content: {
+            de: "Für Hackathon registrieren",
+            en: "Register for Hackathon",
+            es: "Registrarse para el hackathon",
+            fr: "S'inscrire au hackathon",
+          },
+          hash: "a208553569f729a7bda6dd180ec8446c",
+        },
+        "2/0/init/body/3/argument/1/3/5/expression/right/3/1": {
           content: {
             de: "Für Hackathon registrieren",
             en: "Register for Hackathon",
@@ -1067,6 +1076,15 @@ export default {
           hash: "c90db6a8dac7a2810bb89f9dde79cb18",
         },
         "3/0/init/body/3/argument/1/3/7/expression/right/3": {
+          content: {
+            de: "RSVP für Meetup",
+            en: "RSVP for Meetup",
+            es: "Confirmar asistencia al meetup",
+            fr: "RSVP pour le meetup",
+          },
+          hash: "185555e15df7d5e28a752df3666ecc3a",
+        },
+        "3/0/init/body/3/argument/1/3/7/expression/right/3/1": {
           content: {
             de: "RSVP für Meetup",
             en: "RSVP for Meetup",

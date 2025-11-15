@@ -513,11 +513,11 @@
         },
         "2/0/init/body/0/argument/1/3/1": {
           "type": "element",
-          "hash": "a0fa3f59872e06ce23fd70c7a1a78490",
+          "hash": "94a22e96f70f6d417c7247164bd3a6c8",
           "context": "",
           "skip": false,
           "overrides": {},
-          "content": "© 2025 Buidlt. All rights reserved."
+          "content": "© 2025 Buidlt. Built by David J."
         }
       }
     },
@@ -604,6 +604,14 @@
           "content": "Register Now"
         },
         "2/0/init/body/3/argument/1/3/5/expression/right/3": {
+          "type": "element",
+          "hash": "a208553569f729a7bda6dd180ec8446c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Register for Hackathon"
+        },
+        "2/0/init/body/3/argument/1/3/5/expression/right/3/1": {
           "type": "element",
           "hash": "a208553569f729a7bda6dd180ec8446c",
           "context": "",
@@ -952,6 +960,14 @@
           "content": "RSVP"
         },
         "3/0/init/body/3/argument/1/3/7/expression/right/3": {
+          "type": "element",
+          "hash": "185555e15df7d5e28a752df3666ecc3a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "RSVP for Meetup"
+        },
+        "3/0/init/body/3/argument/1/3/7/expression/right/3/1": {
           "type": "element",
           "hash": "185555e15df7d5e28a752df3666ecc3a",
           "context": "",

@@ -65,7 +65,9 @@ const MeetupDetail = () => {
           {meetup.status === 'upcoming' && (
             <section>
               <h2>RSVP</h2>
-              <button className="register-btn">RSVP for Meetup</button>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJOnAipBAi5sQqKDV4ISoSfHqUVFihGss7tGNn9A0gymVqRg/viewform?usp=dialog" target="_blank" rel="noopener noreferrer">
+                <button className="register-btn">RSVP for Meetup</button>
+              </a>
             </section>
           )}
         </div>
