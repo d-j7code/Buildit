@@ -47,7 +47,7 @@ The lingo.dev compiler:
 ✨ **Multilingual Interface** - Full UI translation in 4 languages.  
 🎯 **Hackathon Discovery** - Find coding competitions worldwide.  
 👥 **Meetup Events** - Connect with local developer communities.  
-📧 **Smart Notifications/Mails** - Get updates in your preferred language i.e the language you selected to view the site. 
+📧 **Smart Notifications/Mails** - Get updates in your preferred language i.e the language you selected in the site. 
 🌍 **Global Community** - Break down geographical and linguistic barriers.  
 
 ## Getting Started
