@@ -317,6 +317,15 @@ export default {
           },
           hash: "dc04b9790f2ad2d45cd84024ea0555dc",
         },
+        "3/0/init/body/6/argument/1/1/1/0-alt": {
+          content: {
+            de: "Logo",
+            en: "Logo",
+            es: "Logo",
+            fr: "Logo",
+          },
+          hash: "47fa6b3978c1c06acc29b6cae393b0c9",
+        },
         "3/0/init/body/6/argument/1/1/3/1": {
           content: {
             de: "B",
@@ -399,6 +408,105 @@ export default {
           hash: "6a4aef92855be31f288bd1e0fa142e56",
         },
         "3/0/init/body/6/argument/1/5/7": {
+          content: {
+            de: "Community beitreten",
+            en: "Join Community",
+            es: "Unirse a la comunidad",
+            fr: "Rejoindre la communauté",
+          },
+          hash: "3caad6794f4e521e657f3bb5d6103915",
+        },
+        "4/0/init/body/6/argument/1/1/1/0-alt": {
+          content: {
+            de: "Logo",
+            en: "Logo",
+            es: "Logo",
+            fr: "Logo",
+          },
+          hash: "47fa6b3978c1c06acc29b6cae393b0c9",
+        },
+        "4/0/init/body/6/argument/1/1/3/1": {
+          content: {
+            de: "B",
+            en: "B",
+            es: "B",
+            fr: "B",
+          },
+          hash: "f4d018cabf6eeab3f1c879c1d8eed6de",
+        },
+        "4/0/init/body/6/argument/1/1/3/11": {
+          content: {
+            de: "!",
+            en: "!",
+            es: "!",
+            fr: "!",
+          },
+          hash: "24c1e862f3a7231e2e023bde93240de1",
+        },
+        "4/0/init/body/6/argument/1/1/3/13": {
+          content: {
+            de: "t",
+            en: "t",
+            es: "t",
+            fr: "t",
+          },
+          hash: "c676e8e589714c1b5203a0a6c724dc79",
+        },
+        "4/0/init/body/6/argument/1/1/3/3": {
+          content: {
+            de: "u",
+            en: "u",
+            es: "u",
+            fr: "u",
+          },
+          hash: "a4098684f8afa18b061dec631081fe95",
+        },
+        "4/0/init/body/6/argument/1/1/3/5": {
+          content: {
+            de: "i",
+            en: "i",
+            es: "i",
+            fr: "i",
+          },
+          hash: "b96692323d61bb1d839c1e5b114faa6d",
+        },
+        "4/0/init/body/6/argument/1/1/3/7": {
+          content: {
+            de: "l",
+            en: "l",
+            es: "l",
+            fr: "l",
+          },
+          hash: "497e91bb0f0375e4d0b78753e827b538",
+        },
+        "4/0/init/body/6/argument/1/1/3/9": {
+          content: {
+            de: "d",
+            en: "d",
+            es: "d",
+            fr: "d",
+          },
+          hash: "fe9efa39a6fd9f10358f43f00e0ab82b",
+        },
+        "4/0/init/body/6/argument/1/5/1": {
+          content: {
+            de: "Hackathons",
+            en: "Hackathons",
+            es: "Hackathons",
+            fr: "Hackathons",
+          },
+          hash: "146de422795ba36b31d00851355be3be",
+        },
+        "4/0/init/body/6/argument/1/5/3": {
+          content: {
+            de: "Meetups",
+            en: "Meetups",
+            es: "Meetups",
+            fr: "Meetups",
+          },
+          hash: "6a4aef92855be31f288bd1e0fa142e56",
+        },
+        "4/0/init/body/6/argument/1/5/7": {
           content: {
             de: "Community beitreten",
             en: "Join Community",
