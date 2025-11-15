@@ -27,7 +27,9 @@ Build!t is a community platform that connects developers worldwide through hacka
 - **Routing:** React Router DOM v7
 - **Styling:** Pure CSS with custom animations
 - **Internationalization:** lingo.dev compiler
-- **Backend:** Convex (for email subscriptions)
+- **Backend:** Convex (for email subscriptions, we store the email id's and language selected)
+- **Email Service:** Brevo API (for multilingual newsletters based on the user's preference)
+- **Form Handling:** Formspree (for partner inquiries)
 - **Deployment:** Vercel
 
 ## The Magic Behind Multilingual Support
@@ -42,11 +44,11 @@ The lingo.dev compiler:
 
 ## Key Features
 
-✨ **Multilingual Interface** - Full UI translation in 4 languages  
-🎯 **Hackathon Discovery** - Find coding competitions worldwide  
-👥 **Meetup Events** - Connect with local developer communities  
-📧 **Smart Notifications** - Get updates in your preferred language  
-🌍 **Global Community** - Break down geographical and linguistic barriers  
+✨ **Multilingual Interface** - Full UI translation in 4 languages.  
+🎯 **Hackathon Discovery** - Find coding competitions worldwide.  
+👥 **Meetup Events** - Connect with local developer communities.  
+📧 **Smart Notifications/Mails** - Get updates in your preferred language i.e the language you selected to view the site. 
+🌍 **Global Community** - Break down geographical and linguistic barriers.  
 
 ## Getting Started
 
