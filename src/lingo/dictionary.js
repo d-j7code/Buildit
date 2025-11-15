@@ -193,10 +193,10 @@ export default {
         },
         "3/0/init/body/3/argument/1/3/3": {
           content: {
-            de: "Meetups",
+            de: "Treffen",
             en: "Meetups",
-            es: "Meetups",
-            fr: "Meetups",
+            es: "Quedadas",
+            fr: "Réunions",
           },
           hash: "6a4aef92855be31f288bd1e0fa142e56",
         },
@@ -292,10 +292,10 @@ export default {
         },
         "3/0/init/body/5/argument/1/5/3": {
           content: {
-            de: "Meetups",
+            de: "Treffen",
             en: "Meetups",
-            es: "Meetups",
-            fr: "Meetups",
+            es: "Quedadas",
+            fr: "Réunions",
           },
           hash: "6a4aef92855be31f288bd1e0fa142e56",
         },
@@ -400,10 +400,10 @@ export default {
         },
         "3/0/init/body/6/argument/1/5/3": {
           content: {
-            de: "Meetups",
+            de: "Treffen",
             en: "Meetups",
-            es: "Meetups",
-            fr: "Meetups",
+            es: "Quedadas",
+            fr: "Réunions",
           },
           hash: "6a4aef92855be31f288bd1e0fa142e56",
         },
@@ -499,10 +499,10 @@ export default {
         },
         "4/0/init/body/6/argument/1/5/3": {
           content: {
-            de: "Meetups",
+            de: "Treffen",
             en: "Meetups",
-            es: "Meetups",
-            fr: "Meetups",
+            es: "Quedadas",
+            fr: "Réunions",
           },
           hash: "6a4aef92855be31f288bd1e0fa142e56",
         },
@@ -539,10 +539,10 @@ export default {
         },
         "2/0/init/body/0/argument/1/1/1/3/3/0": {
           content: {
-            de: "Meetups",
+            de: "Treffen",
             en: "Meetups",
-            es: "Meetups",
-            fr: "Meetups",
+            es: "Quedadas",
+            fr: "Réunions",
           },
           hash: "6a4aef92855be31f288bd1e0fa142e56",
         },
@@ -839,10 +839,10 @@ export default {
         },
         "3/0/init/body/2/argument/3/1/5/1": {
           content: {
-            de: "Bevorstehende Meetups",
+            de: "Bevorstehende Treffen",
             en: "Upcoming Meetups",
-            es: "Próximos meetups",
-            fr: "Meetups à venir",
+            es: "Próximos Quedadas",
+            fr: "Réunions à venir",
           },
           hash: "8d83e909cb35d34f20638abf3ca5eaa9",
         },
@@ -1081,10 +1081,10 @@ export default {
       entries: {
         "3/0/init/body/2/argument/1/1": {
           content: {
-            de: "Meetups",
+            de: "Treffen",
             en: "Meetups",
-            es: "Meetups",
-            fr: "Meetups",
+            es: "Quedadas",
+            fr: "Réunions",
           },
           hash: "6a4aef92855be31f288bd1e0fa142e56",
         },
